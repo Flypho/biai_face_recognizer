@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\voltaire\documents\visual studio 2015\projects\face_recognizer\face_recognizer\source.cpp(119): warning C4101: 'e': unreferenced local variable
+  face_recognizer.vcxproj -> C:\Users\Voltaire\documents\visual studio 2015\Projects\face_recognizer\Debug\face_recognizer.exe

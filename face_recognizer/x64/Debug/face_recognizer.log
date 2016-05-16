@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\voltaire\documents\visual studio 2015\projects\face_recognizer\face_recognizer\source.cpp(145): error C2039: 'getMat': is not a member of 'cv::face::FaceRecognizer'
+  d:\opencv-3.0\build\install\include\opencv2\face.hpp(157): note: see declaration of 'cv::face::FaceRecognizer'
+c:\users\voltaire\documents\visual studio 2015\projects\face_recognizer\face_recognizer\source.cpp(147): error C2039: 'getMat': is not a member of 'cv::face::FaceRecognizer'
+  d:\opencv-3.0\build\install\include\opencv2\face.hpp(157): note: see declaration of 'cv::face::FaceRecognizer'
+c:\users\voltaire\documents\visual studio 2015\projects\face_recognizer\face_recognizer\source.cpp(149): error C2039: 'getMat': is not a member of 'cv::face::FaceRecognizer'
+  d:\opencv-3.0\build\install\include\opencv2\face.hpp(157): note: see declaration of 'cv::face::FaceRecognizer'
+c:\users\voltaire\documents\visual studio 2015\projects\face_recognizer\face_recognizer\source.cpp(167): error C2065: 'COLORMAP_JET': undeclared identifier
+c:\users\voltaire\documents\visual studio 2015\projects\face_recognizer\face_recognizer\source.cpp(167): error C3861: 'applyColorMap': identifier not found
+c:\users\voltaire\documents\visual studio 2015\projects\face_recognizer\face_recognizer\source.cpp(181): error C3861: 'subspaceProject': identifier not found
+c:\users\voltaire\documents\visual studio 2015\projects\face_recognizer\face_recognizer\source.cpp(182): error C3861: 'subspaceReconstruct': identifier not found
